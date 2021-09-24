@@ -1,21 +1,19 @@
 {
        "info": {
-        "url_png_icon_64x64": "https://charity-pool.ro/logo.png",
-        "location": "Bucharest, Romania",
+        "url_png_icon_64x64": "https://raw.githubusercontent.com/jaydavies845/stakepool/main/logo.png",
+        "location": "London, United Kingdom",
         "social": {
-            "twitter_handle": "ChrtyPool",
-            "telegram_handle": "charitypool",
-            "github_handle": "Alexd1985"
+            "twitter_handle": "BAJUZ_stakepool"
         },
         "about": {
             "me": "Single Pool Operator",
-            "server": "Bare Metal Server  + Relays located in Germany (cloud) and Romania (Bare Metal) | HW configuration of servers <CPU:8core|RAM:32G|SSD:256G"
+            "server": "Cloud Operated Servers based in Germany | HW configuration of servers <CPU:6core|RAM:16G|SSD:400G"
     },
     "my-pool-ids": {
-        "0": "00333b89543da962cc92e7ffa45848f42a98f7276780670728ce5256"
+        "0": "7c3f2b02293971b09a3bbcc0439b83a24640dea61ef963938a2663a4"
     },
     "when-satured-then-recommend": {
-        "0": "small pools - support decentralization"
+        "0": "Small Pools - support decentralization"
     }
 }
 }
